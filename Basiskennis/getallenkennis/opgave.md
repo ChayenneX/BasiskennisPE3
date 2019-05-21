@@ -1,0 +1,10 @@
+# Hamming controle 1110110
+X
+1	1	1	0	1	1	0
+H1	H2	D3	H4	D5	D6	D7
+
+*H1 = 110 -> even 0 X
+*H2 = 100 -> odd 1 
+*H4 = 110 -> even 0
+
+##De eerste bit is de fout.
