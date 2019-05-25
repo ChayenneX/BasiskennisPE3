@@ -8,3 +8,5 @@ H1	H2	D3	H4	D5	D6	D7
 *H4 = 110 -> even 0
 
 ##De eerste bit is de fout.
+
+### (845)10 = ()2 
