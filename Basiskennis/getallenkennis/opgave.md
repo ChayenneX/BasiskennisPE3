@@ -10,3 +10,4 @@ H1	H2	D3	H4	D5	D6	D7
 ##De eerste bit is de fout.
 
 ### (845)10 = ()2 
+> 512 256 128 64 32 16 8 4 2 1
